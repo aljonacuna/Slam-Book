@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Slam Book Project</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="firstquestion">What is your dream?</string>
+    <string name="secondquestion">How old are you?</string>
+    <string name="thirdquestion">What is your nickname?</string>
+    <string name="fourthquestion">What is your favourite song?</string>
+    <string name="fifthquestion">What is your favourite food?</string>
+
+    <string name="localhost">192.168.0.111</string>
+    <string-array name="sort">
+        <item>Asc</item>
+        <item>Desc</item>
+    </string-array>
+</resources>
